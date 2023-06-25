@@ -1,1 +1,2 @@
-O modificare noua pe care am adaugat-o ca sa verific push
+O modificare noua pe care am adaugat-o ca sa verific push.
+Inca o modificar pentru teste.
